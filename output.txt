@@ -1,0 +1,120 @@
+Output for L=1.0, OMP_NUM_THREADS=1, grid_size=128:
+Params: grid_size - 128, L - 1
+Maximum error: 0.000323684
+Time taken: 25.6035 seconds
+
+Output for L=1.0, OMP_NUM_THREADS=2, grid_size=128:
+Params: grid_size - 128, L - 1
+Maximum error: 0.000323684
+Time taken: 13.1875 seconds
+
+Output for L=1.0, OMP_NUM_THREADS=4, grid_size=128:
+Params: grid_size - 128, L - 1
+Maximum error: 0.000323684
+Time taken: 8.71851 seconds
+
+Output for L=1.0, OMP_NUM_THREADS=8, grid_size=128:
+Params: grid_size - 128, L - 1
+Maximum error: 0.000323684
+Time taken: 6.71273 seconds
+
+Output for L=1.0, OMP_NUM_THREADS=16, grid_size=128:
+Params: grid_size - 128, L - 1
+Maximum error: 0.000323684
+Time taken: 6.84504 seconds
+
+Output for L=1.0, OMP_NUM_THREADS=32, grid_size=128:
+Params: grid_size - 128, L - 1
+Maximum error: 0.000323684
+Time taken: 5.02725 seconds
+
+Output for L=1.0, OMP_NUM_THREADS=1, grid_size=256:
+Params: grid_size - 256, L - 1
+Maximum error: 2.14993e-05
+Time taken: 201.322 seconds
+
+Output for L=1.0, OMP_NUM_THREADS=2, grid_size=256:
+Params: grid_size - 256, L - 1
+Maximum error: 2.14993e-05
+Time taken: 103.223 seconds
+
+Output for L=1.0, OMP_NUM_THREADS=4, grid_size=256:
+Params: grid_size - 256, L - 1
+Maximum error: 2.14993e-05
+Time taken: 58.163 seconds
+
+Output for L=1.0, OMP_NUM_THREADS=8, grid_size=256:
+Params: grid_size - 256, L - 1
+Maximum error: 2.14993e-05
+Time taken: 56.0847 seconds
+
+Output for L=1.0, OMP_NUM_THREADS=16, grid_size=256:
+Params: grid_size - 256, L - 1
+Maximum error: 2.14993e-05
+Time taken: 54.9985 seconds
+
+Output for L=1.0, OMP_NUM_THREADS=32, grid_size=256:
+Params: grid_size - 256, L - 1
+Maximum error: 2.14993e-05
+Time taken: 47.7684 seconds
+
+Output for L=3.0, OMP_NUM_THREADS=1, grid_size=128:
+Params: grid_size - 128, L - 3
+Maximum error: 4.198e-05
+Time taken: 25.096 seconds
+
+Output for L=3.0, OMP_NUM_THREADS=2, grid_size=128:
+Params: grid_size - 128, L - 3
+Maximum error: 4.198e-05
+Time taken: 12.7834 seconds
+
+Output for L=3.0, OMP_NUM_THREADS=4, grid_size=128:
+Params: grid_size - 128, L - 3
+Maximum error: 4.198e-05
+Time taken: 10.5462 seconds
+
+Output for L=3.0, OMP_NUM_THREADS=8, grid_size=128:
+Params: grid_size - 128, L - 3
+Maximum error: 4.198e-05
+Time taken: 6.73726 seconds
+
+Output for L=3.0, OMP_NUM_THREADS=16, grid_size=128:
+Params: grid_size - 128, L - 3
+Maximum error: 4.198e-05
+Time taken: 5.91059 seconds
+
+Output for L=3.0, OMP_NUM_THREADS=32, grid_size=128:
+Params: grid_size - 128, L - 3
+Maximum error: 4.198e-05
+Time taken: 4.578 seconds
+
+Output for L=3.0, OMP_NUM_THREADS=1, grid_size=256:
+Params: grid_size - 256, L - 3
+Maximum error: 2.62397e-06
+Time taken: 201.271 seconds
+
+Output for L=3.0, OMP_NUM_THREADS=2, grid_size=256:
+Params: grid_size - 256, L - 3
+Maximum error: 2.62397e-06
+Time taken: 102.87 seconds
+
+Output for L=3.0, OMP_NUM_THREADS=4, grid_size=256:
+Params: grid_size - 256, L - 3
+Maximum error: 2.62397e-06
+Time taken: 58.3265 seconds
+
+Output for L=3.0, OMP_NUM_THREADS=8, grid_size=256:
+Params: grid_size - 256, L - 3
+Maximum error: 2.62397e-06
+Time taken: 56.4051 seconds
+
+Output for L=3.0, OMP_NUM_THREADS=16, grid_size=256:
+Params: grid_size - 256, L - 3
+Maximum error: 2.62397e-06
+Time taken: 57.6925 seconds
+
+Output for L=3.0, OMP_NUM_THREADS=32, grid_size=256:
+Params: grid_size - 256, L - 3
+Maximum error: 2.62397e-06
+Time taken: 47.9338 seconds
+
